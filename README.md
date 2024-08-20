@@ -8,7 +8,7 @@ This repository serves as a practical exercise in Infinite Horizon Dynamic Progr
 
 ### Repository Contents
 
-- **Practical_4_Infinite Horizon Dynamic Programming.ipynb**: A Jupyter Notebook demonstrating IHDP concepts through various examples and exercises.
+- **practical_infinite_horizon_dynamic_programming.ipynb**: A Jupyter Notebook demonstrating IHDP concepts through various examples and exercises.
 - **frozen_lake.gif**: A GIF visualizing the Frozen Lake environment.
 
   ![Frozen Lake](./frozen_lake.gif)
