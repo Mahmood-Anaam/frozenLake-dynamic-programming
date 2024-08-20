@@ -1,6 +1,6 @@
 # Infinite Horizon Dynamic Programming
 
-This repository contains a practical application of Infinite Horizon Dynamic Programming (IHDP) techniques, demonstrated through the Frozen Lake environment and grid world examples. The project includes a Jupyter Notebook that explores these techniques with visual aids.
+This repository contains a practical application of Infinite Horizon Dynamic Programming (IHDP) techniques, demonstrated through the Frozen Lake environment and grid world examples. The repository includes a Jupyter Notebook that explores these techniques with visual aids.
 
 ## Overview
 
