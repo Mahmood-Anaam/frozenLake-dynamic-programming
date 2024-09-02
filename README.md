@@ -1,5 +1,7 @@
 # Infinite Horizon Dynamic Programming
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mahmood-Anaam/infinite-horizon-dynamic-programming/blob/main/practical_infinite_horizon_dynamic_programming.ipynb)
+
 This repository contains a practical application of Infinite Horizon Dynamic Programming (IHDP) techniques, demonstrated through the Frozen Lake environment and grid world examples. The repository includes a Jupyter Notebook that explores these techniques with visual aids.
 
 ## Overview
